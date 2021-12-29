@@ -4,3 +4,6 @@ if a:
     if c:
       return true 
        return true 
+    
+    if a<>b:
+      print("o")
