@@ -1,3 +1,3 @@
 print("hello world"
-if a<>b:s
-      print("no")
+if a<>b:
+      print("hello")
