@@ -5,6 +5,7 @@ import com.wehkamp.ActorConstants.actorSystemName
 import com.wehkamp.service.{BasketService, CatalogService}
 import play.api.inject._
 import play.api.{Configuration, Environment}
+import org.apache.logging.log4j.logger
 
 class AppModule extends Module {
 
